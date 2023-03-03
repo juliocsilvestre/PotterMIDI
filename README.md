@@ -1,6 +1,6 @@
 <h1> 📁 Resumo do projeto</h1>
 
-- Potter Midi, foi um projeto realizado através da aula com a professora Vanessa Me Tonini, pela plataforma Alura, onde utilizamos Javascript,html e CSS para simular sons.
+- Potter Midi, foi um projeto realizado através da aula com a professora Vanessa Tonini, pela plataforma Alura, onde utilizamos Javascript,html e CSS para simular sons.
 
 🔨 Funcionalidades do projeto
 ---
